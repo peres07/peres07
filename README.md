@@ -31,8 +31,9 @@
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 
   ### Studying in this moment:
-  ![ReactJS](https://img.shields.io/badge/-ReactJS-0D1117?style=for-the-badge&logo=react&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-0D1117?style=for-the-badge&logo=react&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&logoColor=1572B6&labelColor=0D1117)&nbsp;
 </div>
 
