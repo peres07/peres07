@@ -39,6 +39,8 @@
   ![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=next.js&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![TypeORM](https://img.shields.io/badge/-TypeORM-0D1117?style=for-the-badge&logo=typeorm&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  
+  recently switched account
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
