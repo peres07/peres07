@@ -18,19 +18,17 @@
   ![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=next.js&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
   ### Tools:
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-  ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-  ![WSL](https://img.shields.io/badge/-WSL-0D1117?style=for-the-badge&logo=wsl&labelColor=0D1117)&nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
   ### Other Knowledge:
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 
   ### Studying in this moment:
   ![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=next.js&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![TypeORM](https://img.shields.io/badge/-TypeORM-0D1117?style=for-the-badge&logo=typeorm&logoColor=1572B6&labelColor=0D1117)&nbsp;
