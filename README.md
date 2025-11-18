@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+José+Luís,;I'm+18+years+old,;I'm+from+Brazil,+PR,;and+I+study+programming+on+my+own;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+José+Luís,;I'm+18+years+old,;I'm+from+Brazil,+PR,;and+I'm+a+computer+science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
 
@@ -28,12 +28,9 @@
 
   ### Studying in this moment:
   ![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=next.js&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![TypeORM](https://img.shields.io/badge/-TypeORM-0D1117?style=for-the-badge&logo=typeorm&logoColor=1572B6&labelColor=0D1117)&nbsp;
   
-  recently switched account
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
